@@ -144,14 +144,17 @@
 ### 학습 목표
 
 - 웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
-- JDBC 라이브러리, MVC, DI 프레임워크 구현을 통해 Spring 프레임워크의 동작 원리를 이해한다.
 - 레거시 프로젝트를 리팩토링하는 경험을 한다.
-- 객체지향 설계, 인증 및 보안, WebSocket 경험을 한다.
-- 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 경험을 한다.
 
 ### 진행 미션
 
-- comming soon...
+|       Project        |                          Repository                          |                         Pull Request                         |
+| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|     웹 서버 구현 / step1     | [jwp-was/step1](https://github.com/aegis1920/jwp-was/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/98) |
+|     웹 서버 구현 / step2     | [jwp-was/step2](https://github.com/aegis1920/jwp-was/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/144) |
+|     웹 서버 구현 / step3     | [jwp-was/step3](https://github.com/aegis1920/jwp-was/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/144) |
+|     웹 서버 구현 / step4     |  |  |
+|     레거시 리펙토링 / step1     | [jwp-refactoring/step1](https://github.com/aegis1920/jwp-refactoring/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/9) |
 
 <br/>
 
